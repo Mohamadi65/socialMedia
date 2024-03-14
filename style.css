@@ -742,12 +742,12 @@ main .container .right{
     }
 
     /* ======================NOTIFICATION POPUP====================== */
-     main .container .left .notifications-popup{
+    /* .sidebar .left .notifications-popup{
         position: absolute;
         top: -20rem;
         width: 20rem;    
         display: none;
-    }
+    } */
     main .container .left .notifications-popup::before{
         position: absolute;
         top: 1.3rem;
